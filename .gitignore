@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+.venv.zip
+
+# Database
+*.db
+
+# Data files
+*.xlsx
+
+# Frontend dependencies and package-manager cache
+AegisAI_Website/node_modules/
+AegisAI_Website/.npm-cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm settings
+.idea/
+.idea - Copy/
+
+# Pytest cache
+.pytest_cache/
+.env
+.env.*
+!.env.example
+
+# Local account/runtime state
+account_store.json
+
+# Runtime logs
+*.log
+logs/
+update_log.txt
+files/update_log.txt
+
+# Backup and temporary copies
+*.backup
+*.bak
+*.bak2
+*.bak_*
+*.tmp
+* - Copy/
