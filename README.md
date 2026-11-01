@@ -194,14 +194,6 @@ The chatbot recognizes common names:
 
 ---
 
-## 👩‍💻 Authors
-
-- **Tesnim** — Backend, ML pipeline, AI chatbot
-- **Anas** — Backend , Frontend
-- **Islem**_Frontend design and React components
-
----
-
 ## 📄 License
 
 This project was developed as an academic project at **Université Internationale de Tunis (UIT)** — Software Engineering Department.
